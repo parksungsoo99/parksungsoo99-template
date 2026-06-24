@@ -1,0 +1,29 @@
+# 2026-06-24
+
+## 오늘 공부한 내용
+
+### Git
+- git fetch
+- git pull
+- upstream 개념
+
+### JavaScript
+- 변수
+- 함수
+
+## 느낀 점
+git fetch와 pull의 차이를 이해했다.# 2026-06-24
+
+## 오늘 공부한 내용
+
+### Git
+- git fetch
+- git pull
+- upstream 개념
+
+### JavaScript
+- 변수
+- 함수
+
+## 느낀 점
+git fetch와 pull의 차이를 이해했다.
